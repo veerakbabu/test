@@ -21,7 +21,7 @@ namespace WcfService1
         {
             if (composite == null)
             {
-                throw new ArgumentNullException("composite");
+                throw new ArgumentNullException("composite3");
             }
             if (composite.BoolValue)
             {
